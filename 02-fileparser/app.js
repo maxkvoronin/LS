@@ -1,5 +1,5 @@
 const program = require('commander');
-const Parser = require('./moudules/parsedirsync');
+const Parser = require('./modules/parsedirsync');
 
 program
   .version('0.0.2')
